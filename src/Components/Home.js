@@ -9,7 +9,7 @@ class Home extends Component {
         return (
             <div>
                 <NavBar />
-                <img src={JenRuffImg} alt="N/A"></img>
+                <img src={JenRuffImg} alt="N/A" width="90%"></img>
                 <BookCarousel></BookCarousel>
                 <br></br>
                 <br></br>
