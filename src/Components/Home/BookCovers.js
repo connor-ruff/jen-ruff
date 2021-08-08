@@ -26,7 +26,7 @@ export const BookCovers = [
     </div>,
 
     <div>
-    <a href="http://google.com/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.amazon.com/Intern-Dark-Thriller-Brooke-Walton-ebook/dp/B07HP9XGY8" target="_blank" rel="noopener noreferrer">
     <img src={TheIntern} alt="n/a"  />
     </a>
     <p>Click Me!</p>
@@ -40,7 +40,7 @@ export const BookCovers = [
     </div>,
 
     <div>
-    <a href="https://google.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.amazon.com/Only-Wrong-Once-Suspense-Thriller/dp/1973750716" target="_blank" rel="noopener noreferrer">
     <img src={OnlyWrongOnce} alt="n/a"  />
     </a>
     <p>Click Me!</p>
