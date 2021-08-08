@@ -1,8 +1,46 @@
 .book-carousel {
-    margin: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .book-carousel img {
     height: 45vh;
 }
 
+.HomeDesc {
+    font-size: 30px;
+    margin-left: 17%;
+    margin-right: 17%;
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    color: #939596;
+    margin-top: 30px;
+}
+
+.newsLetter {
+    margin: 30px;
+    font-size: 50px;
+    font-style: normal;
+    font-family: 'Karla', sans-serif;
+}
+
+.SignUpBtn{
+    color:black;
+    background-color: whitesmoke;
+    border: black;
+    padding: 15px 32px;
+    border-radius: 10px;
+    font-size: 32px;
+}
+
+.SignUpBtn:hover{
+    background-color: violet;
+}
+
+.HomeImgs {
+    width: 30vw;
+    margin: 20px;
+    
+}
